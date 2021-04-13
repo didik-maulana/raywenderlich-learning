@@ -1,0 +1,45 @@
+{
+  "configurations" : [
+    {
+      "id" : "B6F2CF6A-9B74-45C3-840A-35FB64E88F6F",
+      "name" : "English",
+      "options" : {
+        "language" : "en"
+      }
+    },
+    {
+      "id" : "BBBBB732-9C52-492D-9DB5-CE0244CF1E14",
+      "name" : "Indonesian",
+      "options" : {
+        "language" : "id"
+      }
+    },
+    {
+      "id" : "DF52D3BB-C065-45DB-A16B-38B7A54E4677",
+      "name" : "Korean",
+      "options" : {
+        "language" : "ko"
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "areLocalizationScreenshotsEnabled" : true,
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:GetAPet.xcodeproj",
+      "identifier" : "185CB1F723C78CE6009F7571",
+      "name" : "GetAPet"
+    },
+    "uiTestingScreenshotsLifetime" : "keepAlways"
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:GetAPet.xcodeproj",
+        "identifier" : "7C65B57925D95F9E0037F042",
+        "name" : "GetAPetUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

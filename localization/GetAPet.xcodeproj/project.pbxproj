@@ -12,6 +12,8 @@
 		185CB1FE23C78CE6009F7571 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185CB1FD23C78CE6009F7571 /* SceneDelegate.swift */; };
 		185CB20323C78CE6009F7571 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 185CB20123C78CE6009F7571 /* Main.storyboard */; };
 		185CB20523C78CE8009F7571 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 185CB20423C78CE8009F7571 /* Assets.xcassets */; };
+		46353E8426258C0E00EAB92E /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 465356D026257C5B00FF2864 /* Localizable.strings */; };
+		46353E8726258C1300EAB92E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 185CB20123C78CE6009F7571 /* Main.storyboard */; };
 		464BC9F22625819C009D5EFE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 464BC9F42625819C009D5EFE /* InfoPlist.strings */; };
 		464BC9FB26258271009D5EFE /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 464BC9FA26258271009D5EFE /* README.txt */; };
 		465356CE26257C5B00FF2864 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 465356D026257C5B00FF2864 /* Localizable.strings */; };
@@ -40,6 +42,8 @@
 		185CB20223C78CE6009F7571 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		185CB20423C78CE8009F7571 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		185CB20923C78CE8009F7571 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		46353E81262588A100EAB92E /* GetAPet.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = GetAPet.xctestplan; sourceTree = "<group>"; };
+		46353E8B26258C1600EAB92E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 		464BC9E826257C97009D5EFE /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = id; path = id.lproj/Main.strings; sourceTree = "<group>"; };
 		464BC9E926257C98009D5EFE /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = id; path = id.lproj/Localizable.strings; sourceTree = "<group>"; };
 		464BC9F32625819C009D5EFE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
@@ -127,6 +131,7 @@
 		7C65B57B25D95F9E0037F042 /* GetAPetUITests */ = {
 			isa = PBXGroup;
 			children = (
+				46353E81262588A100EAB92E /* GetAPet.xctestplan */,
 				7C65B57C25D95F9E0037F042 /* GetAPetUITests.swift */,
 				7C65B57E25D95F9E0037F042 /* Info.plist */,
 			);
@@ -234,6 +239,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46353E8426258C0E00EAB92E /* Localizable.strings in Resources */,
+				46353E8726258C1300EAB92E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +306,7 @@
 				185CB20223C78CE6009F7571 /* Base */,
 				464BC9E826257C97009D5EFE /* id */,
 				464BC9FE262584DD009D5EFE /* ko */,
+				46353E8B26258C1600EAB92E /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -486,7 +494,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = GetAPetUITests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -506,7 +514,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = GetAPetUITests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

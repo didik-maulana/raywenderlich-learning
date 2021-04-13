@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bundleID</key>
+		<string>com.raywenderlich.GetAPet</string>
+		<key>bundlePath</key>
+		<string>/Users/macadmin/Library/Developer/CoreSimulator/Devices/67D9B3AA-5B8B-42B5-A1FD-709DC92E4746/data/Containers/Bundle/Application/9DD0BEF9-6E8C-4044-BF9D-8BB7B1AF26D8/GetAPet.app</string>
+		<key>screenshots</key>
+		<array>
+			<dict>
+				<key>frame</key>
+				<string>{{139, 32}, {97, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{139, 32}, {97, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-2.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{139, 32}, {97, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-4.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{139, 32}, {97, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-6.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{139, 32}, {97, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{139, 32}, {97, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+		</array>
+		<key>stringKey</key>
+		<string>Pet Explorer</string>
+		<key>tableName</key>
+		<string>Localizable</string>
+	</dict>
+	<dict>
+		<key>bundleID</key>
+		<string>com.raywenderlich.GetAPet</string>
+		<key>bundlePath</key>
+		<string>/Users/macadmin/Library/Developer/CoreSimulator/Devices/67D9B3AA-5B8B-42B5-A1FD-709DC92E4746/data/Containers/Bundle/Application/9DD0BEF9-6E8C-4044-BF9D-8BB7B1AF26D8/GetAPet.app</string>
+		<key>screenshots</key>
+		<array>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 93.5}, {39, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 81.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 93.5}, {39, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-2.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 81.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-2.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 93.5}, {39, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-4.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 81.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-4.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 93.5}, {39, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-6.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 81.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-6.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 93.5}, {39, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 81.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 93.5}, {39, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 81.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+		</array>
+		<key>stringKey</key>
+		<string>Birds</string>
+		<key>tableName</key>
+		<string>Localizable</string>
+	</dict>
+	<dict>
+		<key>bundleID</key>
+		<string>com.raywenderlich.GetAPet</string>
+		<key>bundlePath</key>
+		<string>/Users/macadmin/Library/Developer/CoreSimulator/Devices/67D9B3AA-5B8B-42B5-A1FD-709DC92E4746/data/Containers/Bundle/Application/9DD0BEF9-6E8C-4044-BF9D-8BB7B1AF26D8/GetAPet.app</string>
+		<key>screenshots</key>
+		<array>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 137.5}, {35, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 125.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 137.5}, {35, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-2.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 125.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-2.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 137.5}, {35, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-4.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 125.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-4.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 137.5}, {35, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-6.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 125.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-6.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 137.5}, {35, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 125.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 137.5}, {35, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 125.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+		</array>
+		<key>stringKey</key>
+		<string>Cats</string>
+		<key>tableName</key>
+		<string>Localizable</string>
+	</dict>
+	<dict>
+		<key>bundleID</key>
+		<string>com.raywenderlich.GetAPet</string>
+		<key>bundlePath</key>
+		<string>/Users/macadmin/Library/Developer/CoreSimulator/Devices/67D9B3AA-5B8B-42B5-A1FD-709DC92E4746/data/Containers/Bundle/Application/9DD0BEF9-6E8C-4044-BF9D-8BB7B1AF26D8/GetAPet.app</string>
+		<key>screenshots</key>
+		<array>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 181.5}, {95, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 169.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 491.5}, {95, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-2.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 479.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-2.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 491.5}, {95, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-4.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 479.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-4.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 491.5}, {95, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-6.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 479.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-6.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 181.5}, {95, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 169.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 181.5}, {95, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 169.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+		</array>
+		<key>stringKey</key>
+		<string>Chameleons</string>
+		<key>tableName</key>
+		<string>Localizable</string>
+	</dict>
+	<dict>
+		<key>bundleID</key>
+		<string>com.raywenderlich.GetAPet</string>
+		<key>bundlePath</key>
+		<string>/Users/macadmin/Library/Developer/CoreSimulator/Devices/67D9B3AA-5B8B-42B5-A1FD-709DC92E4746/data/Containers/Bundle/Application/9DD0BEF9-6E8C-4044-BF9D-8BB7B1AF26D8/GetAPet.app</string>
+		<key>screenshots</key>
+		<array>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 225.5}, {42, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 213.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 535.5}, {42, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-2.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 523.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-2.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 535.5}, {42, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-4.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 523.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-4.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 535.5}, {42, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-6.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 523.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-6.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 225.5}, {42, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 213.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 225.5}, {42, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 213.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+		</array>
+		<key>stringKey</key>
+		<string>Cows</string>
+		<key>tableName</key>
+		<string>Localizable</string>
+	</dict>
+	<dict>
+		<key>bundleID</key>
+		<string>com.raywenderlich.GetAPet</string>
+		<key>bundlePath</key>
+		<string>/Users/macadmin/Library/Developer/CoreSimulator/Devices/67D9B3AA-5B8B-42B5-A1FD-709DC92E4746/data/Containers/Bundle/Application/9DD0BEF9-6E8C-4044-BF9D-8BB7B1AF26D8/GetAPet.app</string>
+		<key>screenshots</key>
+		<array>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 269.5}, {40, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 257.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 579.5}, {40, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-2.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 567.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-2.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 579.5}, {40, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-4.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 567.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-4.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 579.5}, {40, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-6.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 567.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-6.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 269.5}, {40, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 257.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 269.5}, {40, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 257.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+		</array>
+		<key>stringKey</key>
+		<string>Dogs</string>
+		<key>tableName</key>
+		<string>Localizable</string>
+	</dict>
+	<dict>
+		<key>bundleID</key>
+		<string>com.raywenderlich.GetAPet</string>
+		<key>bundlePath</key>
+		<string>/Users/macadmin/Library/Developer/CoreSimulator/Devices/67D9B3AA-5B8B-42B5-A1FD-709DC92E4746/data/Containers/Bundle/Application/9DD0BEF9-6E8C-4044-BF9D-8BB7B1AF26D8/GetAPet.app</string>
+		<key>screenshots</key>
+		<array>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 313.5}, {68.5, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 301.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 623.5}, {68.5, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-2.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 611.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-2.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 623.5}, {68.5, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-4.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 611.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-4.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 623.5}, {68.5, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-6.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 611.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-6.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 313.5}, {68.5, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 301.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 313.5}, {68.5, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 301.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+		</array>
+		<key>stringKey</key>
+		<string>Monkeys</string>
+		<key>tableName</key>
+		<string>Localizable</string>
+	</dict>
+	<dict>
+		<key>bundleID</key>
+		<string>com.raywenderlich.GetAPet</string>
+		<key>bundlePath</key>
+		<string>/Users/macadmin/Library/Developer/CoreSimulator/Devices/67D9B3AA-5B8B-42B5-A1FD-709DC92E4746/data/Containers/Bundle/Application/9DD0BEF9-6E8C-4044-BF9D-8BB7B1AF26D8/GetAPet.app</string>
+		<key>screenshots</key>
+		<array>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 357.5}, {70.5, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 345.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 655.5}, {375, 11.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-2.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 655.5}, {375, 11.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-4.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 655.5}, {375, 11.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-6.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 357.5}, {70.5, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 345.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 357.5}, {70.5, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 345.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+		</array>
+		<key>stringKey</key>
+		<string>Penguins</string>
+		<key>tableName</key>
+		<string>Localizable</string>
+	</dict>
+	<dict>
+		<key>bundleID</key>
+		<string>com.raywenderlich.GetAPet</string>
+		<key>bundlePath</key>
+		<string>/Users/macadmin/Library/Developer/CoreSimulator/Devices/67D9B3AA-5B8B-42B5-A1FD-709DC92E4746/data/Containers/Bundle/Application/9DD0BEF9-6E8C-4044-BF9D-8BB7B1AF26D8/GetAPet.app</string>
+		<key>screenshots</key>
+		<array>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 401.5}, {33, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 389.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 401.5}, {33, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 389.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 401.5}, {33, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 389.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+		</array>
+		<key>stringKey</key>
+		<string>Pigs</string>
+		<key>tableName</key>
+		<string>Localizable</string>
+	</dict>
+	<dict>
+		<key>bundleID</key>
+		<string>com.raywenderlich.GetAPet</string>
+		<key>bundlePath</key>
+		<string>/Users/macadmin/Library/Developer/CoreSimulator/Devices/67D9B3AA-5B8B-42B5-A1FD-709DC92E4746/data/Containers/Bundle/Application/9DD0BEF9-6E8C-4044-BF9D-8BB7B1AF26D8/GetAPet.app</string>
+		<key>screenshots</key>
+		<array>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 445.5}, {34, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 433.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 445.5}, {34, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 433.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 445.5}, {34, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 433.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+		</array>
+		<key>stringKey</key>
+		<string>Rats</string>
+		<key>tableName</key>
+		<string>Localizable</string>
+	</dict>
+	<dict>
+		<key>bundleID</key>
+		<string>com.raywenderlich.GetAPet</string>
+		<key>bundlePath</key>
+		<string>/Users/macadmin/Library/Developer/CoreSimulator/Devices/67D9B3AA-5B8B-42B5-A1FD-709DC92E4746/data/Containers/Bundle/Application/9DD0BEF9-6E8C-4044-BF9D-8BB7B1AF26D8/GetAPet.app</string>
+		<key>screenshots</key>
+		<array>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 489.5}, {55, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 477.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 489.5}, {55, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 477.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 489.5}, {55, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 477.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+		</array>
+		<key>stringKey</key>
+		<string>Snakes</string>
+		<key>tableName</key>
+		<string>Localizable</string>
+	</dict>
+	<dict>
+		<key>bundleID</key>
+		<string>com.raywenderlich.GetAPet</string>
+		<key>bundlePath</key>
+		<string>/Users/macadmin/Library/Developer/CoreSimulator/Devices/67D9B3AA-5B8B-42B5-A1FD-709DC92E4746/data/Containers/Bundle/Application/9DD0BEF9-6E8C-4044-BF9D-8BB7B1AF26D8/GetAPet.app</string>
+		<key>screenshots</key>
+		<array>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 533.5}, {67.5, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 521.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-1.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 533.5}, {67.5, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 521.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-7.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{16, 533.5}, {67.5, 20.5}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{0, 521.5}, {375, 44}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-9.jpeg</string>
+			</dict>
+		</array>
+		<key>stringKey</key>
+		<string>Squirrels</string>
+		<key>tableName</key>
+		<string>Localizable</string>
+	</dict>
+	<dict>
+		<key>bundleID</key>
+		<string>com.raywenderlich.GetAPet</string>
+		<key>bundlePath</key>
+		<string>/Users/macadmin/Library/Developer/CoreSimulator/Devices/67D9B3AA-5B8B-42B5-A1FD-709DC92E4746/data/Containers/Bundle/Application/9DD0BEF9-6E8C-4044-BF9D-8BB7B1AF26D8/GetAPet.app</string>
+		<key>screenshots</key>
+		<array>
+			<dict>
+				<key>frame</key>
+				<string>{{166.5, 484.5}, {42, 18}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-3.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{166.5, 478.5}, {42, 30}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-3.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{166.5, 484.5}, {42, 18}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-5.jpeg</string>
+			</dict>
+			<dict>
+				<key>frame</key>
+				<string>{{166.5, 478.5}, {42, 30}}</string>
+				<key>name</key>
+				<string>GetAPetUITests-iPhone 8-en-5.jpeg</string>
+			</dict>
+		</array>
+		<key>stringKey</key>
+		<string>dI7-PE-hkI.normalTitle</string>
+		<key>tableName</key>
+		<string>Main</string>
+	</dict>
+</array>
+</plist>

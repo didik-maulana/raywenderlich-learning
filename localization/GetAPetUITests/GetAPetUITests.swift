@@ -36,6 +36,35 @@ class GetAPetUITests: XCTestCase {
   func testExample() throws {
     let app = XCUIApplication()
     app.launch()
+    
     // Use recording to get started writing UI tests.
+    let collectionViewsQuery = app.collectionViews
+    collectionViewsQuery.buttons[
+      NSLocalizedString("Cats", bundle: Bundle(for: GetAPetUITests.self), comment: "")
+    ].tap()
+    collectionViewsQuery.cells["Max"].tap()
+    
+    let petExplorerButton = app
+      .navigationBars[
+        NSLocalizedString("GetAPet.PetDetailView", bundle: Bundle(for: GetAPetUITests.self), comment: "")
+      ]
+      .buttons[
+        NSLocalizedString("Pet Explorer", bundle: Bundle(for: GetAPetUITests.self), comment: "")
+      ]
+    petExplorerButton.tap()
+    
+    collectionViewsQuery.cells["Oscar"].tap()
+    app.staticTexts[
+      NSLocalizedString("Adopt", bundle: Bundle(for: GetAPetUITests.self), comment: "")
+    ].tap()
+    
+    collectionViewsQuery.buttons[
+      NSLocalizedString("Cats", bundle: Bundle(for: GetAPetUITests.self), comment: "")
+    ].tap()
+    
+    collectionViewsQuery.staticTexts[
+      "\(NSLocalizedString("Your pet:", bundle: Bundle(for: GetAPetUITests.self), comment: "")) Oscar"
+    ].tap()
+    petExplorerButton.tap()
   }
 }

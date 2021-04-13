@@ -73,6 +73,10 @@
         <target>Anjing</target>
         <note>Dogs are domesticated mammals, not natural wild animals. They were originally bred from wolves.</note>
       </trans-unit>
+      <trans-unit id="GetAPet.PetDetailView" xml:space="preserve">
+        <source>GetAPet.PetDetailView</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Monkeys" xml:space="preserve">
         <source>Monkeys</source>
         <target>Monyet</target>
@@ -117,6 +121,17 @@
         <source>years old</source>
         <target>tahun</target>
         <note>Age</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="GetAPetUITests/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="id">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>GetAPetUITests</source>
+        <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
