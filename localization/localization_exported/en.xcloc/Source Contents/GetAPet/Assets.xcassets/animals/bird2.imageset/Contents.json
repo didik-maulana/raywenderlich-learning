@@ -2,12 +2,7 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "creature-owl-attack-1.png"
-    },
-    {
-      "idiom" : "universal",
-      "filename" : "creature-owl-attack-1 2.png",
-      "locale" : "id"
+      "filename" : "swift-logo-1.png"
     }
   ],
   "info" : {

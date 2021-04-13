@@ -65,7 +65,6 @@ class PetDetailViewController: UIViewController {
 
   override func viewDidLoad() {
     super.viewDidLoad()
-    adoptButton.setTitle(NSLocalizedString("Adopt", comment: "Details Title"), for: .normal)
     adoptButton.isHidden = isAdopted
     imageView.image = UIImage(named: pet.imageName)
     name.text = isAdopted ? "\(NSLocalizedString("Your pet:", comment: "name")) \(pet.name)" : pet.name
